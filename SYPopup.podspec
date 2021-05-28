@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                = "SYPopup"
-  s.version             = "1.1.6-window"
+  s.version             = "1.1.6-windonw"
   s.summary             = "Presenting custom views as a popup in iOS."
 
   s.description         = <<-DESC
